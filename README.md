@@ -9,4 +9,4 @@
  - Google fonts API
  - Hosted with by GitHub💎
  
- #### [CLICK HERE](https://karthix-x.github.io/Random-Password-Generator/) to  preview of the Project.
+ #### [CLICK HERE](https://karthix-x.github.io/SECURPASS/) to  preview of the Project.
